@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #19181A;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
